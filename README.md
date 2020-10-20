@@ -150,7 +150,7 @@
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   This repository is under MIT license. You can see the <a href="https://github.com/levinsousa/Happy/LICENSE.md">LICENSE</a> file for more details. 😉
+   This repository is under MIT license. You can see the <a href="https://github.com/levinsousa/Happy/blob/main/LICENSE.md">LICENSE</a> file for more details. 😉
 </p>
 
    ---
