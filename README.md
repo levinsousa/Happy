@@ -78,18 +78,11 @@
    ```
    - Clone this repository:
    $ git clone https://github.com/levinsousa/Happy Happy
-<<<<<<< HEAD
 
   ```
   - Front-end
 
   ```
-=======
-   ```
-  - Front-end
-
-   ```
->>>>>>> 0aacc7d434e445237beba5e21f57340c8287a67d
    - Enter in directory:
    $ cd Happy/web
 
@@ -109,11 +102,7 @@
 
    - Open your browser in:
    http://localhost:3000/
-<<<<<<< HEAD
   ```
-=======
-   ```
->>>>>>> 0aacc7d434e445237beba5e21f57340c8287a67d
 
   - Back-end
 
