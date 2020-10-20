@@ -21,8 +21,6 @@
 
    <p align="center">
       <img src="./.github/Happy.png" width="90%" alt="Happy Demo"/>
-      <img src="./.github/Orphanage.gif" width="90%" alt="Happy Demo"/>
-      <img src="./.github/CreateOrphanage.gif" width="90%" alt="Happy Demo"/>
    </p>
 
 ---
@@ -78,9 +76,10 @@
    ```
    - Clone this repository:
    $ git clone https://github.com/levinsousa/Happy Happy
-
+   ```
   - Front-end
 
+   ```
    - Enter in directory:
    $ cd Happy/web
 
@@ -100,9 +99,11 @@
 
    - Open your browser in:
    http://localhost:3000/
+   ```
 
   - Back-end
 
+  ```
    - Enter in directory:
    $ cd Happy/backend
 
