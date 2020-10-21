@@ -33,7 +33,6 @@
       The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma:
       
    - <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> 🖥️
-   - <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile</a> 📱
    </p>
 
 ---
