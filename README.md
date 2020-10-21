@@ -45,7 +45,6 @@
 - You can mark the days for visiting orphanages;
    - Accessing opening hours and days 📅,
    - Schedule visits,
-   - Get in touch via Whatsapp 📞,
    - View directions via Google Maps 🗺
 - Browse different tabs and pages;
 
